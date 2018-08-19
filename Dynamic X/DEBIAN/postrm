@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Successfully removed Dynamic X."
+echo "Restoring with back up."
+mv /System/Library/ProceduralWallpaper/ProceduralWallpapersbak.bundle/ /System/Library/ProceduralWallpaper/ProceduralWallpapers.bundle
+echo "Successfully restored."

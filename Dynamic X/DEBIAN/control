@@ -1,0 +1,10 @@
+Architecture: iphoneos-arm
+Name: Dynamic X
+Package: com.peterdev.dynamicx
+Version: 1.0
+Maintainer: PeterDev <djperter@icloud.com>
+Author: PeterDev <djperter@icloud.com>
+Depends: mobilesubstrate, firmware (>=8.0)
+Description: iPhone X의 Dynamic배경화면을 일반 iPhone에 추가시켜 줍니다.
+Depiction: https://peterprd.github.io/nightly/depictions/?p=com.peterdev.dynamicx
+Section: Tweaks

@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Preparing to setup"
+echo "Backing up"
+mv /System/Library/ProceduralWallpaper/ProceduralWallpapers.bundle/ /System/Library/ProceduralWallpaper/ProceduralWallpapersbak.bundle
+echo "Successfully backed up"
